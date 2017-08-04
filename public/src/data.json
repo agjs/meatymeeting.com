@@ -1,0 +1,17 @@
+{
+  "questions": [
+    {
+      "qs": "How many people are you planning to meet and for how long ?"
+    },
+    {
+      "qs": "Have you thought through this situation ?",
+      "no": "We recommend that you schedule time to think it through (for example by going for a walk or grab a coffee or simply stop and think) before you decide on your next action.",
+      "yes": "Awesome! Then please describe the context for having the meeting in a tweet. The purpose of this meeting is to go through the requested features and decide on how and why they should be prioritized into our roadmap. The purpose of this meeting is to brainstorm on how we can improve our decreasing retention rate and decide on concrete actions to be taken"
+    },
+    {
+      "qs": "Perfect. This will help you to focus on the actual purpose of the meeting and provide context to the other participants. However, does moving forward necessarily require a real-time interaction?",
+      "no": "Then we highly recommend that you share the context with your teammates using Slack, Basecamp or email and get the conversation started there",
+      "yes": "Okay, we hear you. Then please add your meeting agenda here. This is to help you stay on track and include the other participants in your structure for the meeting before the event. This will help them show up prepared as well."
+    }
+  ]
+}

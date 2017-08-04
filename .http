@@ -1,0 +1,11 @@
+POST http://localhost:3000/api/meetings
+Content-Type: application/json
+
+{
+    "name": "Test meeting",
+    "context": "This is my meeting and I m so nice to do it",
+    "agenda": "The agenda is the best in the world",
+    "participants": 11,
+    "rating": 5,
+    "hours": 1
+}
